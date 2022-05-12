@@ -1,0 +1,14 @@
+Dependencies:
+
+Node Version : 10.16.3
+Python Versionn : 2.7.7
+Ganache : (Whatever)
+Node GYP (npm install -g node-gyp) : 3.6.2
+Truffle Version : 5.1.39
+Node create-react-app Version : npm install -g create-react-app@3.3.1
+Github
+Chrome
+MetaMask (Extension)
+Redux Dev Tools (Extension)
+Infura
+Heroku
