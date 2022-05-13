@@ -1,7 +1,7 @@
 pragma solidity ^0.5.0;
 
 import "./Token.sol";
-import "openzeppelin-solidity/contracts/math/SafeMath.sol";
+import "@openzeppelin/contracts/math/SafeMath.sol";
 
 contract Exchange {
   using SafeMath for uint;
